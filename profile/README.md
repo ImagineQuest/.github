@@ -1,7 +1,7 @@
 # Welcome to ImagineQuest
 
 ## Back-End, for our Back-End API
-[Back-End](https://github.com/ImagineQuest/Back-end)
+[Back-End](https://github.com/ImagineQuest/Back-End)
 
 ## Front-End, for our React Web App
 [Front-End](https://github.com/ImagineQuest/Front-End)
